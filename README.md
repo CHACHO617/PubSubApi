@@ -23,6 +23,6 @@ Esto se realiza de forma desacoplada mediante un **exchange fanout de RabbitMQ**
 ---
 
 ## 📦 Arquitectura
-![Arquitectura](https://ibb.co/Tx84PZnk)
+![Arquitectura](https://i.ibb.co/ycy6gDMX/Frame-1171275863.png)
 
 
